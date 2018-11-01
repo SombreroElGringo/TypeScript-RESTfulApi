@@ -6,7 +6,6 @@ import * as express from 'express';
 import * as helmet from 'helmet';
 import * as mongoose from 'mongoose';
 import * as logger from 'morgan';
-import * as path from 'path';
 import PostRouter from './router/PostRouter';
 import UserRouter from './router/UserRouter';
 
